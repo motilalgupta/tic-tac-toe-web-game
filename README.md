@@ -60,4 +60,9 @@ This project helps in understanding:
 
 ## Author
 
+**Motilal Gupta**
+
+GitHub: https://github.com/your-github-username
+
 Created as a frontend practice project using HTML, CSS, and JavaScript.
+
